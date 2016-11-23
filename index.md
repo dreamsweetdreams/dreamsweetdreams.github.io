@@ -1,6 +1,6 @@
 ---
 layout: construction
-title: "Dream Sweet Dreams"
+title: Dream Sweet Dreams
 ---
 
 Notre site internet est actuellement en construction.
